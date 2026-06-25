@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Проверка",
+        "Я обычный Игрок!",
+        "Люблю Играть в Майнкрафт!"
       ]
     },
     "chat-log": true,
@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.com/api/webhooks/1481243933664346153/qrjtpd18mGxIbHWJiEioApdgK6T2w_YvmKXNuKEYkURkeldydutDeNyLjy9yv85ms_qy",
     "events": {
       "connect": true,
