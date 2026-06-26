@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "TestBot",
+    "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "168.119.35.49",
     "port": 14758,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -27,18 +27,18 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Проверка",
-        "Я обычный Игрок!",
-        "Люблю Играть в Майнкрафт!"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 1000,
+    "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
   "movement": {
@@ -73,12 +73,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1481243933664346153/qrjtpd18mGxIbHWJiEioApdgK6T2w_YvmKXNuKEYkURkeldydutDeNyLjy9yv85ms_qy",
+    "enabled": false,
+    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": true
+      "chat": false
     }
   },
   "chat": {
