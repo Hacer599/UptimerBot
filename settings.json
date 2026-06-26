@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "denizenservtest.mcsh.io",
-    "port": 14758,
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
