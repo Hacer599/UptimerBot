@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "denizenservtest.mcsh.io",
-    "port": 25565,
-    "version": "1.21.11",
+    "ip": "168.119.35.49",
+    "port": 14758,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
